@@ -1,4 +1,4 @@
-Lexieasy: Your English Buddy
+##**Lexieasy: Your English Buddy**
 
 Welcome to **Lexieasy: Your English Buddy**, an API-based dictionary application built using HTML, CSS, and JavaScript. This app provides definitions, examples, and pronunciation of words, making it an ideal companion for improving your English vocabulary.
 
