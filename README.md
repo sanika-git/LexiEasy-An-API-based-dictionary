@@ -20,6 +20,9 @@ To get a local copy up and running follow these simple steps.
 ## Prerequisites
 Make sure you have a web browser installed (Chrome, Firefox, etc.)
 
+##Website
+http://127.0.0.1:5500/index.html
+
 ## Installation
 1. Clone the repo
 
